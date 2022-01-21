@@ -1,4 +1,8 @@
 # Android's MVVM Architecture in Kotlin
+
+<img src = "https://github.com/emreesen27/Basic-MVVM-Example/blob/master/mvvm.png?raw=true">
+
+
 ### Why a simple app ?
 
 Because it's easier to understand application architecture and general usage.

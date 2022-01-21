@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMExample</string>
+    <string name="desc_completed">desc_completed</string>
+</resources>

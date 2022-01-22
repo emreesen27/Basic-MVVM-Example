@@ -23,7 +23,7 @@
             app:destination="@id/detail_fragment" />
         <argument
             android:name="argsProjectName"
-            app:argType="com.sn.mvvmexample.data.TodosItemModel" />
+            app:argType="com.sn.mvvmexample.data.model.TodosItemModel" />
     </fragment>
 
 </navigation>

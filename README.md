@@ -11,6 +11,20 @@ Because it's easier to understand application architecture and general usage.
 
 Actually very simple. Sends a request to an endpoint. Stores and manages the result in the room database. It does this simple job using up-to-date structures and architecture, that's all.
 
+### Project Structure
+```
++-- data
+|   +-- local
+|   +-- model
+|   +-- remote
++-- di
++-- ui
+|   +-- detail
+|   +-- todo
+|   --- MainActivity
++-- util
+```
+
 #### Visit resources for detailed information.
 - [Rxjava](https://github.com/ReactiveX/RxAndroid)
 - [Room](https://developer.android.com/training/data-storage/room)
